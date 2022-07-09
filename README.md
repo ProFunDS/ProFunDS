@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProFunDS
+- 👋 Hi, I’m Philipp
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python, neural networks
 - 📫 How to reach me: discord - ƇĄƬĄḨĄ#5665
